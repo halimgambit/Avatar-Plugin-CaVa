@@ -1,0 +1,18 @@
+{
+	"modules": { 
+		"CaVa": {
+			"version": "1.0",
+			"name": "cava",
+			"tts": {
+				"Salon": "je vais bien, et vous?|Ca va bien, et vous ?|Comme d'habitude, et vous ?",
+				"Cuisine": "je vais bien, et vous?|Ca va bien, et vous ?|Comme d'habitude, et vous ?"
+			},
+			"clients": {
+				"Salon": 60,
+				"Cuisine": 50
+			},
+			"rules": ["okay","ok","how being you"]
+		}
+	}
+}
+			
